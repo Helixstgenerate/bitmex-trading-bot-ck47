@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with updated bitmex trading bot Addon | API-integration + position-sizing, the #1 bitmex trading bot. Includes API-integration and position-sizing for a
 
 
 
